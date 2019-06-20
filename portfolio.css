@@ -42,8 +42,6 @@ body {
 }
 
 .jumbotron {
-    background-image: url('./books.jpg');
-    background-repeat: no-repeat;
     background-color: #6C5B7B;
     color: white;
     border-radius: 0rem;
