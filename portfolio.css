@@ -2,6 +2,11 @@ body {
     padding-top: 210px;
 }
 
+a:link, a:visited {
+    color: #6C5B7B;
+    visited: #355C7D;
+}
+
 .nav-item {
     font-family: 'Glegoo', serif;
     font-size: 1.6rem;
